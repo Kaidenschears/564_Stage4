@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "heapfile.C": "cpp",
+        "xmemory": "c",
+        "testfile.C": "cpp",
+        "db.C": "cpp",
+        "buf.C": "cpp",
+        "page.C": "cpp",
+        "xstring": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}

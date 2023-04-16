@@ -68,6 +68,11 @@ int main(int argc, char **argv)
     iScan = new InsertFileScan("dummy.02", status);
     for(i = 0; i < num; i++) {
         sprintf(rec1.s, "This is record %05d", i);
+        cout << "Test Print" <<endl;
+        //TEMP
+        // if (i % 1 == 0){
+        //     cout << "Test Print";
+        // }
         rec1.i = i;
         rec1.f = i;
 
